@@ -14,7 +14,7 @@ Licença: MIT license
 
 
 ## Texton Noise
-Autores do código base original (em GLSL): B. Galerne, A. Leclaire, L. Moisan
+Autores dos códigos base originais (GLSL e Matlab): B. Galerne, A. Leclaire, L. Moisan
 
 Link para o artigo e código base original: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13073
 
