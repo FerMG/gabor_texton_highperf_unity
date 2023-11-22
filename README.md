@@ -26,4 +26,5 @@ O último argumento da função é o tamanho do texton em pixels: 64, 128, 256 o
 ## High-Performance By-Example Noise
 Autores do código base original (em GLSL): Eric Heitz, Fabrice Neyret
 Link para o artigo: https://inria.hal.science/hal-01824773
+
 Link para o código do shader original em GLSL: https://www.shadertoy.com/view/MdyfDV
