@@ -7,12 +7,15 @@ O projeto do Unity deste repositório possui uma cena com um exemplo de uso.
 
 ## Gabor Noise
 Autor do código base original (em GLSL): Victor Shepardson
+
 Link para seu repositório: https://github.com/victor-shepardson/webgl-gabor-noise
+
 Licença: MIT license
 
 
 ## Texton Noise
 Autores do código base original (em GLSL): B. Galerne, A. Leclaire, L. Moisan
+
 Link para o artigo e código base original: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13073
 
 ### Modo de uso:
@@ -25,6 +28,7 @@ O último argumento da função é o tamanho do texton em pixels: 64, 128, 256 o
 
 ## High-Performance By-Example Noise
 Autores do código base original (em GLSL): Eric Heitz, Fabrice Neyret
+
 Link para o artigo: https://inria.hal.science/hal-01824773
 
 Link para o código do shader original em GLSL: https://www.shadertoy.com/view/MdyfDV
